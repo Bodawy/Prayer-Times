@@ -1,0 +1,5 @@
+requests
+tk
+geopy
+plyer
+playsound==1.2.2
